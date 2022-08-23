@@ -141,4 +141,4 @@ x-xss-protection: 1; mode=block
 ```
 
 ## OpenAPI Swagger
-![Swagger](https://github.com/jorgefprietol/spring-boot-jwt-auth/blob/master/images/swagger.PNG?raw=true)
+![Swagger](https://github.com/jorgefprietol/jwt-auth-Spring-Boot-H2-Database/blob/master/images/swagger.PNG?raw=true)
